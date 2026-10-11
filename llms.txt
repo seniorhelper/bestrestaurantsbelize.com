@@ -1,0 +1,25 @@
+# Best Restaurants Belize
+
+> Where to eat in Belize, town by town: a sourced directory of restaurants in San Pedro, Caye Caulker, Placencia, Hopkins, San Ignacio and Orange Walk.
+
+Publisher: Eye To Ad Media (Zach Wennstedt), https://eyetoad.com/. Independent guide; sponsored listings are labeled.
+Restaurant data: https://bestrestaurantsbelize.com/data/restaurants.json (name, area, cuisines, sources, last-verified month). Please cite the page URL.
+
+## Pages
+- [Best Restaurants in Belize (2026): Where to Eat by Town](https://bestrestaurantsbelize.com/): Where to eat in Belize: sourced restaurant picks in San Pedro, Caye Caulker, Placencia, Hopkins and San Ignacio, plus a restaurant finder and tip helper.
+- [All Belize Restaurants: Sourced Directory by Town](https://bestrestaurantsbelize.com/restaurants/): 31 verified Belize restaurants in San Pedro, Caye Caulker, Placencia, Hopkins, San Ignacio and Orange Walk, with real cuisines and sources.
+- [San Pedro Belize Restaurants: Ambergris Caye Guide](https://bestrestaurantsbelize.com/san-pedro/): Where to eat in San Pedro, Ambergris Caye: Elvi’s Kitchen, El Fogon, Caramba, Blue Water Grill, Palmilla, Rojo and more, by part of the island.
+- [Caye Caulker Restaurants: Where to Eat on the Island](https://bestrestaurantsbelize.com/caye-caulker/): Where to eat on Caye Caulker, Belize: Errolyn’s fry jacks, Ice & Beans, Rainbow Grill, the Lazy Lizard at The Split, Hibisca and Wish Willy’s.
+- [Placencia Restaurants: Peninsula & Maya Beach Guide](https://bestrestaurantsbelize.com/placencia/): Where to eat in Placencia, Belize: Rumfish y Vino, The Bistro at Maya Beach Hotel, Barefoot Bar, Wendy’s, Rick’s Cafe, Tutti Frutti and more.
+- [Hopkins Belize Restaurants: Garifuna Food & More](https://bestrestaurantsbelize.com/hopkins/): Where to eat in Hopkins, Belize: Garifuna hudut at Innie’s and Tugusina, seaside dinners at Chef Rob’s, and tips for ordering traditional dishes.
+- [San Ignacio Restaurants: Cayo District Guide](https://bestrestaurantsbelize.com/san-ignacio/): Where to eat in San Ignacio and Cayo, Belize: Guava Limb, Running W, Pop’s breakfasts, Cenaida’s, plus Nahil Mayab in Orange Walk on the way north.
+- [Fine Dining in Belize: Date-Night Restaurants](https://bestrestaurantsbelize.com/fine-dining/): The best fine dining and date-night restaurants in Belize: Hidden Treasure, Palmilla, Rumfish y Vino, The Bistro at Maya Beach, Guava Limb and Running W.
+- [Best Breakfast in Belize: Fry Jacks & More](https://bestrestaurantsbelize.com/breakfast/): Where to eat breakfast in Belize: Errolyn’s fry jacks and Ice & Beans on Caye Caulker, Estel’s in San Pedro, Pop’s in San Ignacio, Wendy’s in Placencia.
+- [Belize Seafood Restaurants: Lobster, Conch & More](https://bestrestaurantsbelize.com/seafood-restaurants/): Where to eat seafood in Belize, from pick-your-catch grills to lobster grilled cheese, plus the 2026 lobster and conch seasons and how to order sustainably.
+- [Belize Restaurant Finder: Match a Meal to Your Trip](https://bestrestaurantsbelize.com/restaurant-finder/): Free Belize restaurant finder: pick your town or Ambergris Caye hotel zone, occasion and food to get sourced matches, an evening plan and what to order.
+- [Belize Restaurant Prices, Tipping & BZ$ Calculator](https://bestrestaurantsbelize.com/prices-tipping/): Convert Belize menu prices between BZ$ and US$ at the fixed 2:1 rate, add 12.5% GST or service if needed, choose a tip and split the bill.
+- [About Best Restaurants Belize](https://bestrestaurantsbelize.com/about/): About Best Restaurants Belize: an independent Belize food site by Zach Wennstedt (Eye To Ad Media), how it is funded and how facts are checked.
+- [Contact Best Restaurants Belize](https://bestrestaurantsbelize.com/contact/): Contact Best Restaurants Belize: corrections, closure reports, suggestions and advertising questions.
+- [Privacy Policy | Best Restaurants Belize](https://bestrestaurantsbelize.com/privacy/): Privacy at Best Restaurants Belize: contact form data, on-device tool storage, Google AdSense cookies and how to opt out.
+- [Terms of Use | Best Restaurants Belize](https://bestrestaurantsbelize.com/terms/): Terms for using Best Restaurants Belize: general information, confirm details locally, sponsored content and limits of liability.
+- [Editorial Policy & Change Log](https://bestrestaurantsbelize.com/editorial-policy/): Editorial standards at Best Restaurants Belize: sourcing, no unearned ratings, advertising separation, photos and a log of corrections.

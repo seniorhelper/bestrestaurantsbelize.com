@@ -1,0 +1,1701 @@
+{
+ "site": "https://bestrestaurantsbelize.com",
+ "generated": "2026-10-11",
+ "license": "Facts compiled by Best Restaurants Belize; cite the site when reusing. Descriptions are our own words.",
+ "notes": "price and hours are null unless sourced from the business itself; lat/lng null where no verified coordinate exists; tags are editor's tags derived from the cited sources.",
+ "restaurants": [
+  {
+   "slug": "elvis-kitchen",
+   "name": "Elvi's Kitchen",
+   "status": "open",
+   "area": "sp-town",
+   "area_label": "San Pedro town",
+   "locality": "San Pedro, Ambergris Caye",
+   "country": "BZ",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "Belizean",
+    "Seafood"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "belizean",
+     "seafood"
+    ],
+    "moods": [
+     "iconic",
+     "family"
+    ]
+   },
+   "meals": [
+    "lunch",
+    "dinner"
+   ],
+   "labels": [
+    "Since 1974",
+    "Sand floor"
+   ],
+   "summary_text": "San Pedro’s best-known restaurant. It began in 1974 when Elvi Staines sold burgers from her window, then grew around a tree that still stands in the sand-floored dining room. Traditional Belizean plates and fresh seafood; reservations help in high season.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Tripadvisor listing",
+     "https://www.tripadvisor.com/Restaurant_Review-g291962-d2177966-Reviews-Elvi_s_Kitchen-San_Pedro_Ambergris_Caye_Belize_Cayes.html"
+    ],
+    [
+     "Chaa Creek blog: San Pedro restaurants",
+     "https://belize-travel-blog.chaacreek.com/2016/03/san-pedro-restaurants/"
+    ],
+    [
+     "Belize Adventure: best restaurants in San Pedro",
+     "https://www.belizeadventure.ca/san-pedro-best-restaurants/"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "high"
+  },
+  {
+   "slug": "el-fogon",
+   "name": "El Fogon",
+   "status": "open",
+   "area": "sp-town",
+   "area_label": "San Pedro town",
+   "locality": "San Pedro, Ambergris Caye",
+   "country": "BZ",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "Belizean",
+    "Creole",
+    "Mestizo"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "belizean"
+    ],
+    "moods": [
+     "local",
+     "casual"
+    ]
+   },
+   "meals": [
+    "lunch"
+   ],
+   "labels": [
+    "Fire-hearth cooking",
+    "Locals’ lunch"
+   ],
+   "summary_text": "Belizean home cooking from a traditional open-fire hearth (fogón), in a simple palapa setting. Guides call it a locals’ lunch favorite that often sells out, so go early.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Belize Adventure: best restaurants in San Pedro",
+     "https://www.belizeadventure.ca/san-pedro-best-restaurants/"
+    ],
+    [
+     "Thoroughly Travel: restaurants in San Pedro",
+     "https://www.thoroughlytravel.com/restaurants-san-pedro-ambergris-caye/"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "high"
+  },
+  {
+   "slug": "hidden-treasure",
+   "name": "Hidden Treasure Restaurant & Lounge",
+   "status": "open",
+   "area": "sp-town",
+   "area_label": "San Pedro town",
+   "locality": "San Pedro, Ambergris Caye",
+   "country": "BZ",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "Caribbean fusion",
+    "Belizean"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "fine",
+     "belizean"
+    ],
+    "moods": [
+     "romantic"
+    ]
+   },
+   "meals": [
+    "dinner"
+   ],
+   "labels": [
+    "Dinner",
+    "Reserve ahead"
+   ],
+   "summary_text": "A candlelit dinner spot that has been San Pedro’s romantic standard for years, known for barbecue ribs with Garifuna spices. Recent posts announce a new location north of town in 2026, so confirm the address when you book.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Tripadvisor listing (reviews October 2026)",
+     "https://www.tripadvisor.com/Restaurant_Review-g291962-d1385671-Reviews-Hidden_Treasure_Restaurant_Lounge-San_Pedro_Ambergris_Caye_Belize_Cayes.html"
+    ],
+    [
+     "Wanderlog",
+     "https://wanderlog.com/place/details/483602/the-hidden-treasure-restaurant--lounge"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "medium"
+  },
+  {
+   "slug": "blue-water-grill",
+   "name": "Blue Water Grill",
+   "status": "open",
+   "area": "sp-town",
+   "area_label": "San Pedro town",
+   "locality": "San Pedro, Ambergris Caye",
+   "country": "BZ",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "Seafood",
+    "International",
+    "Sushi"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "seafood",
+     "international",
+     "sushi"
+    ],
+    "moods": [
+     "view",
+     "family"
+    ]
+   },
+   "meals": [
+    "breakfast",
+    "lunch",
+    "dinner"
+   ],
+   "labels": [
+    "Oceanfront",
+    "Sushi nights"
+   ],
+   "summary_text": "An oceanfront San Pedro institution serving seafood and international dishes all day. Its sushi nights are a draw; guides disagree on which nights, so ask.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Belize Adventure: best restaurants in San Pedro",
+     "https://www.belizeadventure.ca/san-pedro-best-restaurants/"
+    ],
+    [
+     "Thoroughly Travel: restaurants in San Pedro",
+     "https://www.thoroughlytravel.com/restaurants-san-pedro-ambergris-caye/"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "high"
+  },
+  {
+   "slug": "caramba",
+   "name": "Caramba Restaurant",
+   "status": "open",
+   "area": "sp-town",
+   "area_label": "San Pedro town",
+   "locality": "San Pedro, Ambergris Caye",
+   "country": "BZ",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "Seafood",
+    "Belizean",
+    "Mexican"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "seafood",
+     "belizean"
+    ],
+    "moods": [
+     "lively",
+     "family"
+    ]
+   },
+   "meals": [
+    "lunch",
+    "dinner"
+   ],
+   "labels": [
+    "Pick your catch"
+   ],
+   "summary_text": "Choose your fish or seafood from the display and pick how it is cooked. Lively and generous, good for groups.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Belize Adventure: best restaurants in San Pedro",
+     "https://www.belizeadventure.ca/san-pedro-best-restaurants/"
+    ],
+    [
+     "Thoroughly Travel: restaurants in San Pedro",
+     "https://www.thoroughlytravel.com/restaurants-san-pedro-ambergris-caye/"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "high"
+  },
+  {
+   "slug": "estels",
+   "name": "Estel's Dine by the Sea",
+   "status": "open",
+   "area": "sp-town",
+   "area_label": "San Pedro town",
+   "locality": "San Pedro, Ambergris Caye",
+   "country": "BZ",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "Belizean",
+    "Breakfast"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "breakfast",
+     "belizean"
+    ],
+    "moods": [
+     "view",
+     "casual"
+    ]
+   },
+   "meals": [
+    "breakfast",
+    "lunch"
+   ],
+   "labels": [
+    "On the beach",
+    "Breakfast"
+   ],
+   "summary_text": "A beachside breakfast and lunch favorite with tables in the sand; fry jacks are the classic order.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Thoroughly Travel: restaurants in San Pedro",
+     "https://www.thoroughlytravel.com/restaurants-san-pedro-ambergris-caye/"
+    ],
+    [
+     "Pur Boutique Cabanas: recommended restaurants",
+     "https://www.purboutiquecabanas.com/recommended-restaurants"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "medium"
+  },
+  {
+   "slug": "robins-kitchen",
+   "name": "Robin's Kitchen",
+   "status": "open",
+   "area": "sp-south",
+   "area_label": "South of San Pedro",
+   "locality": "San Pedro, Ambergris Caye",
+   "country": "BZ",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "Jamaican",
+    "Barbecue"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "local-eats"
+    ],
+    "moods": [
+     "local",
+     "casual"
+    ]
+   },
+   "meals": [],
+   "labels": [
+    "Jerk chicken",
+    "Roadside"
+   ],
+   "summary_text": "A small open-air roadside spot south of town where the jerk chicken and fish are the reason to come, with rice and beans, slaw and plantain. It gets crowded and hours can be limited.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Belize Adventure: best restaurants in San Pedro",
+     "https://www.belizeadventure.ca/san-pedro-best-restaurants/"
+    ],
+    [
+     "Travel with Bender: where to eat in San Pedro",
+     "https://travelwithbender.com/travel-blog/ambergris-caye-belize/where-eat-san-pedro-ambergris-caye"
+    ],
+    [
+     "Frommer’s: San Pedro restaurants",
+     "https://www.frommers.com/destinations/ambergris-caye/restaurants/overview"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "high"
+  },
+  {
+   "slug": "palmilla",
+   "name": "Palmilla Restaurant at Victoria House",
+   "status": "open",
+   "area": "sp-south",
+   "area_label": "South of San Pedro",
+   "locality": "San Pedro, Ambergris Caye",
+   "country": "BZ",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": "https://www.victoria-house.com/dining/palmilla-restaurant/",
+   "cuisines": [
+    "International",
+    "Seafood"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "fine",
+     "seafood"
+    ],
+    "moods": [
+     "romantic",
+     "view"
+    ]
+   },
+   "meals": [
+    "breakfast",
+    "lunch",
+    "dinner"
+   ],
+   "labels": [
+    "Resort dining",
+    "Ocean view"
+   ],
+   "summary_text": "The full-service restaurant of Victoria House, about two miles south of town, open for breakfast, lunch and dinner with ocean views, indoor air-conditioned tables or a veranda. Fodor’s praises the seafood; reservations recommended.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Victoria House: Palmilla",
+     "https://www.victoria-house.com/dining/palmilla-restaurant/"
+    ],
+    [
+     "Fodor’s: Belize restaurants",
+     "https://www.fodors.com/world/mexico-and-central-america/belize/restaurants/page-2"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "high"
+  },
+  {
+   "slug": "rojo-beach-bar",
+   "name": "Rojo Beach Bar & Lounge",
+   "status": "open",
+   "area": "sp-north",
+   "area_label": "North Ambergris Caye",
+   "locality": "San Pedro, Ambergris Caye",
+   "country": "BZ",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "Beach bar",
+    "International"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "bar",
+     "international"
+    ],
+    "moods": [
+     "view",
+     "romantic"
+    ]
+   },
+   "meals": [],
+   "labels": [
+    "North of the bridge",
+    "Beachfront"
+   ],
+   "summary_text": "A stylish beach bar and lounge on north Ambergris Caye next to Azul Resort, run by Vivian Yu, with creative small plates. Fodor’s notes it is closed Sundays and Mondays; reach it by water taxi or cart.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Tripadvisor listing",
+     "https://www.tripadvisor.com/Restaurant_Review-g291962-d17377567-Reviews-Rojo_beach_bar_and_lounge-San_Pedro_Ambergris_Caye_Belize_Cayes.html"
+    ],
+    [
+     "Fodor’s: Rojo Beach Bar",
+     "https://www.fodors.com/world/mexico-and-central-america/belize/the-cayes-and-atolls/restaurants/reviews/rojo-beach-bar-198032"
+    ],
+    [
+     "Belizing: Rojo",
+     "https://belizing.com/Rojo-Beach-Bar-and-Lounge/"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "high"
+  },
+  {
+   "slug": "the-truck-stop",
+   "name": "The Truck Stop",
+   "status": "open",
+   "area": "sp-north",
+   "area_label": "North Ambergris Caye",
+   "locality": "San Pedro, Ambergris Caye",
+   "country": "BZ",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "Food park",
+    "International"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "local-eats",
+     "international",
+     "bar"
+    ],
+    "moods": [
+     "lively",
+     "family"
+    ]
+   },
+   "meals": [
+    "dinner"
+   ],
+   "labels": [
+    "Shipping-container food park",
+    "Beer garden"
+   ],
+   "summary_text": "Belize’s first shipping-container food park, opened in 2015 by Ben and Joanna Popik about a mile north of the bridge: several food vendors, a bar, a pool and evening events. Good for groups and families.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Thoroughly Travel: restaurants in San Pedro",
+     "https://www.thoroughlytravel.com/restaurants-san-pedro-ambergris-caye/"
+    ],
+    [
+     "Container Home Hub: The Truck Stop",
+     "https://containerhomehub.com/the-truck-stop-of-san-pedro-premier-shipping-container-food-on-ambergris-caye-belize/"
+    ],
+    [
+     "San Pedro Sun",
+     "https://www.sanpedrosun.com/?p=46714"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "medium"
+  },
+  {
+   "slug": "errolyns-house-of-fry-jacks",
+   "name": "Errolyn's House of Fry Jacks",
+   "status": "open",
+   "area": "caye-caulker",
+   "area_label": "Caye Caulker",
+   "locality": "Caye Caulker",
+   "country": "BZ",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "Belizean",
+    "Breakfast"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "breakfast",
+     "belizean",
+     "local-eats"
+    ],
+    "moods": [
+     "local",
+     "casual"
+    ]
+   },
+   "meals": [
+    "breakfast"
+   ],
+   "labels": [
+    "Fry jacks",
+    "Expect a queue"
+   ],
+   "summary_text": "The island’s best-known breakfast stop, devoted to Belize’s signature morning dish, the fry jack, stuffed to order. There is usually a line; go early.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Backpackers Wanderlust: Caye Caulker restaurants",
+     "https://www.backpackerswanderlust.com/best-restaurants-on-caye-caulker/"
+    ],
+    [
+     "Thoroughly Travel: restaurants on Caye Caulker",
+     "https://www.thoroughlytravel.com/restaurants-caye-caulker/"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "high"
+  },
+  {
+   "slug": "ice-and-beans",
+   "name": "Ice & Beans",
+   "status": "open",
+   "area": "caye-caulker",
+   "area_label": "Caye Caulker",
+   "locality": "Caye Caulker",
+   "country": "BZ",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "Café"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "breakfast",
+     "cafe"
+    ],
+    "moods": [
+     "casual",
+     "view"
+    ],
+    "diet": [
+     "vegetarian"
+    ]
+   },
+   "meals": [
+    "breakfast"
+   ],
+   "labels": [
+    "Beachfront coffee",
+    "Vegan & gluten-free options (per guide)"
+   ],
+   "summary_text": "One of the busiest, longest-running businesses on the island, known for coffee, bagels and warm mini doughnuts on the beachfront, with vegetarian, vegan and gluten-free options according to one guide.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Thoroughly Travel: restaurants on Caye Caulker",
+     "https://www.thoroughlytravel.com/restaurants-caye-caulker/"
+    ],
+    [
+     "Sally Sees: favorite restaurants on Caye Caulker",
+     "https://sallysees.com/restaurants-on-caye-caulker/"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "high"
+  },
+  {
+   "slug": "rainbow-grill",
+   "name": "Rainbow Grill & Bar",
+   "status": "open",
+   "area": "caye-caulker",
+   "area_label": "Caye Caulker",
+   "locality": "Caye Caulker",
+   "country": "BZ",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "Seafood",
+    "Belizean"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "seafood",
+     "belizean"
+    ],
+    "moods": [
+     "view",
+     "casual"
+    ]
+   },
+   "meals": [],
+   "labels": [
+    "Over the water"
+   ],
+   "summary_text": "A dockside restaurant over the water serving grilled seafood and Belizean plates, a long-standing Caye Caulker stop.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Tripadvisor: Caye Caulker restaurants",
+     "https://www.tripadvisor.com/Restaurants-g291963-Caye_Caulker_Belize_Cayes.html"
+    ],
+    [
+     "Backpackers Wanderlust: Caye Caulker restaurants",
+     "https://www.backpackerswanderlust.com/best-restaurants-on-caye-caulker/"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "medium"
+  },
+  {
+   "slug": "lazy-lizard",
+   "name": "The Lazy Lizard",
+   "status": "open",
+   "area": "caye-caulker",
+   "area_label": "Caye Caulker",
+   "locality": "Caye Caulker",
+   "country": "BZ",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "Bar",
+    "Seafood"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "bar",
+     "seafood"
+    ],
+    "moods": [
+     "lively",
+     "view"
+    ]
+   },
+   "meals": [],
+   "labels": [
+    "At The Split",
+    "Swim dock"
+   ],
+   "summary_text": "The bar and grill at The Split, the channel dividing the island, with a swimming dock and picnic tables under palapas. Seasonal seafood and the \"Lizard Juice\" house drink.",
+   "sponsored": false,
+   "sources": [
+    [
+     "AFAR: Lazy Lizard",
+     "https://www.afar.com/places/lazy-lizard-bar-and-grill-caye-caulker"
+    ],
+    [
+     "Go Slow Caye Caulker",
+     "https://goslowcayecaulker.com/?p=2906"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "high"
+  },
+  {
+   "slug": "hibisca",
+   "name": "Hibisca by Habanero",
+   "status": "open",
+   "area": "caye-caulker",
+   "area_label": "Caye Caulker",
+   "locality": "Caye Caulker",
+   "country": "BZ",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "International",
+    "Seafood"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "fine",
+     "international"
+    ],
+    "moods": [
+     "romantic"
+    ]
+   },
+   "meals": [
+    "dinner"
+   ],
+   "labels": [
+    "Formerly Habanero’s"
+   ],
+   "summary_text": "A Caye Caulker dinner classic, called Habanero’s until 2018, according to Frommer’s.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Frommer’s: Caye Caulker restaurants",
+     "https://www.frommers.com/destinations/caye-caulker/restaurants/"
+    ],
+    [
+     "Thoroughly Travel: restaurants on Caye Caulker",
+     "https://www.thoroughlytravel.com/restaurants-caye-caulker/"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "medium"
+  },
+  {
+   "slug": "wish-willy",
+   "name": "Wish Willy's",
+   "status": "open",
+   "area": "caye-caulker",
+   "area_label": "Caye Caulker",
+   "locality": "Caye Caulker",
+   "country": "BZ",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "Belizean",
+    "Barbecue",
+    "Seafood"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "local-eats",
+     "seafood"
+    ],
+    "moods": [
+     "local",
+     "casual"
+    ]
+   },
+   "meals": [],
+   "labels": [
+    "Backyard grill"
+   ],
+   "summary_text": "Chef Maurice Moore serves grilled fish, barbecue and lobster in season from the open-air backyard of a home. Relaxed and unhurried.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Frommer’s: Caye Caulker restaurants",
+     "https://www.frommers.com/destinations/caye-caulker/restaurants/"
+    ],
+    [
+     "Thoroughly Travel: restaurants on Caye Caulker",
+     "https://www.thoroughlytravel.com/restaurants-caye-caulker/"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "medium"
+  },
+  {
+   "slug": "rumfish-y-vino",
+   "name": "Rumfish y Vino",
+   "status": "open",
+   "area": "placencia",
+   "area_label": "Placencia peninsula",
+   "locality": "Placencia",
+   "country": "BZ",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "Belizean fusion",
+    "International",
+    "Wine bar"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "fine",
+     "belizean",
+     "seafood"
+    ],
+    "moods": [
+     "romantic"
+    ]
+   },
+   "meals": [
+    "dinner"
+   ],
+   "labels": [
+    "Wine list",
+    "Open-air patio"
+   ],
+   "summary_text": "Possibly Placencia’s best-known restaurant: Belizean and international fusion with a strong wine list on a breezy, open-air upstairs patio.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Tripadvisor: restaurants in Placencia",
+     "https://www.tripadvisor.com/Restaurants-g291977-Placencia_Placencia_Peninsula_Stann_Creek.html"
+    ],
+    [
+     "Ocean Breeze: best Placencia bars and restaurants",
+     "https://www.oceanbreezebeachresort.com/post/the-best-placencia-bar-restaurants"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "high"
+  },
+  {
+   "slug": "maya-beach-hotel-bistro",
+   "name": "The Bistro at Maya Beach Hotel",
+   "status": "open",
+   "area": "placencia",
+   "area_label": "Placencia peninsula",
+   "locality": "Placencia",
+   "country": "BZ",
+   "address": "Maya Beach, about mile 15 of the peninsula road",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "Belizean",
+    "French-inspired",
+    "Seafood"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "fine",
+     "seafood",
+     "belizean"
+    ],
+    "moods": [
+     "view",
+     "romantic"
+    ]
+   },
+   "meals": [
+    "breakfast",
+    "lunch",
+    "dinner"
+   ],
+   "labels": [
+    "Twice restaurant of the year (per AFAR)",
+    "Beachfront"
+   ],
+   "summary_text": "The beachfront hotel restaurant up the peninsula at Maya Beach, serving a French spin on Belizean food all day. AFAR says it has twice been named Belize’s restaurant of the year; 2026 reviews are mixed, so read recent ones.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Caribbean Journal (June 2026)",
+     "https://www.caribjournal.com/2026/06/01/belize-maya-beach-hotel/"
+    ],
+    [
+     "AFAR: Maya Beach Hotel and Bistro",
+     "https://www.afar.com/places/maya-beach-hotel-and-bistro-placencia"
+    ],
+    [
+     "Indagare: Maya Beach Bistro",
+     "https://indagare.com/restaurant/maya-beach-bistro"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "high"
+  },
+  {
+   "slug": "barefoot-bar",
+   "name": "Barefoot Bar",
+   "status": "open",
+   "area": "placencia",
+   "area_label": "Placencia peninsula",
+   "locality": "Placencia",
+   "country": "BZ",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "Beach bar",
+    "Belizean"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "bar",
+     "belizean",
+     "local-eats"
+    ],
+    "moods": [
+     "lively",
+     "casual",
+     "view"
+    ]
+   },
+   "meals": [],
+   "labels": [
+    "Toes in the sand",
+    "Lobster grilled cheese"
+   ],
+   "summary_text": "A barefoot beach bar known for its catch-of-the-day lobster grilled cheese, crispy salbutes and cheap drink specials.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Tripadvisor: restaurants in Placencia",
+     "https://www.tripadvisor.com/Restaurants-g291977-Placencia_Placencia_Peninsula_Stann_Creek.html"
+    ],
+    [
+     "Real Life Recess: Placencia’s bar and restaurant scene",
+     "https://realliferecess.com/exploring-placencias-bar-restaurant-scene/"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "high"
+  },
+  {
+   "slug": "wendys",
+   "name": "Wendy's Creole Restaurant",
+   "status": "open",
+   "area": "placencia",
+   "area_label": "Placencia peninsula",
+   "locality": "Placencia",
+   "country": "BZ",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "Belizean",
+    "Mexican",
+    "International"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "belizean",
+     "breakfast",
+     "local-eats"
+    ],
+    "moods": [
+     "local",
+     "casual"
+    ]
+   },
+   "meals": [
+    "breakfast",
+    "lunch",
+    "dinner"
+   ],
+   "labels": [
+    "Local sit-down",
+    "Not the chain"
+   ],
+   "summary_text": "A low-key local favorite at the southern end of the village near the pier, serving Belizean, Mexican and international food (and unrelated to the US chain).",
+   "sponsored": false,
+   "sources": [
+    [
+     "Frommer’s: Placencia restaurants",
+     "https://www.frommers.com/destinations/placencia/restaurants/"
+    ],
+    [
+     "Belize Adventure: Placencia restaurants",
+     "https://belizeadventure.ca/placencia-best-restaurants/"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "high"
+  },
+  {
+   "slug": "ricks-cafe",
+   "name": "Rick's Cafe",
+   "status": "open",
+   "area": "placencia",
+   "area_label": "Placencia peninsula",
+   "locality": "Placencia",
+   "country": "BZ",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "International",
+    "Italian"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "international"
+    ],
+    "moods": [
+     "casual"
+    ]
+   },
+   "meals": [],
+   "labels": [
+    "Above Tutti Frutti",
+    "Balcony"
+   ],
+   "summary_text": "Upstairs above Tutti Frutti, with indoor and balcony seating: salads, sandwiches, pasta, thin-crust pizza and cocktails. Reviewers mention the lobster corn chowder.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Wanderlog: Rick’s Cafe",
+     "https://wanderlog.com/place/details/855033/ricks-cafe"
+    ],
+    [
+     "Tripadvisor forum: Placencia restaurants",
+     "https://www.tripadvisor.com/ShowTopic-g291977-i2324-k15387774-Restaurants-Placencia_Placencia_Peninsula_Stann_Creek.html"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "medium"
+  },
+  {
+   "slug": "tutti-frutti",
+   "name": "Tutti Frutti Gelateria",
+   "status": "open",
+   "area": "placencia",
+   "area_label": "Placencia peninsula",
+   "locality": "Placencia",
+   "country": "BZ",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "Gelato",
+    "Dessert"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "dessert"
+    ],
+    "moods": [
+     "family"
+    ]
+   },
+   "meals": [],
+   "labels": [
+    "Gelato",
+    "Village Square"
+   ],
+   "summary_text": "Italian-style gelato in the Placencia Village Square shopping center across from the soccer field, with flavors such as dark chocolate, mango and soursop.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Frommer’s: Placencia restaurants",
+     "https://www.frommers.com/destinations/placencia/restaurants/"
+    ],
+    [
+     "Pearl: Tutti Frutti",
+     "https://joinpearl.co/restaurants/placencia/tuttifrutti"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "high"
+  },
+  {
+   "slug": "secret-garden",
+   "name": "The Secret Garden",
+   "status": "open",
+   "area": "placencia",
+   "area_label": "Placencia peninsula",
+   "locality": "Placencia",
+   "country": "BZ",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "Belizean",
+    "International"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "belizean",
+     "international"
+    ],
+    "moods": [
+     "romantic"
+    ]
+   },
+   "meals": [
+    "dinner"
+   ],
+   "labels": [
+    "Candlelit"
+   ],
+   "summary_text": "A small, candlelit restaurant tucked behind greenery in the village, mixing Belizean and international dishes.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Ocean Breeze: best Placencia bars and restaurants",
+     "https://www.oceanbreezebeachresort.com/post/the-best-placencia-bar-restaurants"
+    ],
+    [
+     "Real Life Recess: Placencia’s bar and restaurant scene",
+     "https://realliferecess.com/exploring-placencias-bar-restaurant-scene/"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "low"
+  },
+  {
+   "slug": "chef-robs",
+   "name": "Chef Rob's Gourmet Cafe",
+   "status": "open",
+   "area": "hopkins",
+   "area_label": "Hopkins",
+   "locality": "Hopkins",
+   "country": "BZ",
+   "address": "Parrot Cove Lodge area, per one guide",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "Caribbean",
+    "Seafood"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "fine",
+     "seafood"
+    ],
+    "moods": [
+     "view",
+     "romantic"
+    ]
+   },
+   "meals": [
+    "dinner"
+   ],
+   "labels": [
+    "Daily market menu"
+   ],
+   "summary_text": "A daily menu built on fresh market products, including lobster, conch and ceviche, in a casual wood-walled room by the sea. One guide places it at Parrot Cove Lodge.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Island Expeditions: best places to eat in Hopkins",
+     "https://www.islandexpeditions.com/belize-vacations-blog/best-places-eat-hopkins-belize"
+    ],
+    [
+     "Hopkins BZ: best restaurants",
+     "https://hopkinsbz.com/2023/05/hopkins-belize-what-are-the-best-restaurants/"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "medium"
+  },
+  {
+   "slug": "innies",
+   "name": "Innie's Restaurant",
+   "status": "open",
+   "area": "hopkins",
+   "area_label": "Hopkins",
+   "locality": "Hopkins",
+   "country": "BZ",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "Garifuna",
+    "Belizean"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "garifuna",
+     "belizean",
+     "local-eats"
+    ],
+    "moods": [
+     "local"
+    ]
+   },
+   "meals": [],
+   "labels": [
+    "Hudut",
+    "Drumming nights (per reviewers)"
+   ],
+   "summary_text": "A local favorite for traditional Garifuna food such as hudut (fish in coconut broth with mashed plantain) and ereba (cassava bread); reviewers mention drumming nights.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Tripadvisor listing",
+     "https://www.tripadvisor.com/Restaurant_Review-g635532-d1590984-Reviews-Innie_s_Restaurant-Hopkins_Stann_Creek.html"
+    ],
+    [
+     "Island Expeditions: best places to eat in Hopkins",
+     "https://www.islandexpeditions.com/belize-vacations-blog/best-places-eat-hopkins-belize"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "high"
+  },
+  {
+   "slug": "tugusina-garifuna",
+   "name": "Tugusina Garifuna",
+   "status": "open",
+   "area": "hopkins",
+   "area_label": "Hopkins",
+   "locality": "Hopkins",
+   "country": "BZ",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "Garifuna"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "garifuna",
+     "local-eats"
+    ],
+    "moods": [
+     "local"
+    ]
+   },
+   "meals": [],
+   "labels": [
+    "Main road",
+    "Popular with locals"
+   ],
+   "summary_text": "A small spot on the main road that locals use for real Garifuna food.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Tripadvisor listing",
+     "https://www.tripadvisor.com/Restaurant_Review-g635532-d25896969-Reviews-Tugusina_Garifuna-Hopkins_Stann_Creek.html"
+    ],
+    [
+     "Island Expeditions: best places to eat in Hopkins",
+     "https://www.islandexpeditions.com/belize-vacations-blog/best-places-eat-hopkins-belize"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "medium"
+  },
+  {
+   "slug": "guava-limb",
+   "name": "Guava Limb Cafe",
+   "status": "open",
+   "area": "san-ignacio",
+   "area_label": "San Ignacio & Cayo",
+   "locality": "San Ignacio",
+   "country": "BZ",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "Farm-to-table",
+    "International"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "fine",
+     "international"
+    ],
+    "moods": [
+     "romantic"
+    ]
+   },
+   "meals": [
+    "lunch",
+    "dinner"
+   ],
+   "labels": [
+    "Garden setting",
+    "Candlelit dinners"
+   ],
+   "summary_text": "San Ignacio’s best-known restaurant, with a garden setting and candlelit dinners described by Frommer’s; ingredient-driven cooking near the Macal River.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Tripadvisor: restaurants in San Ignacio",
+     "https://www.tripadvisor.com/Restaurants-g291971-San_Ignacio_Cayo.html"
+    ],
+    [
+     "Frommer’s: San Ignacio restaurants",
+     "https://www.frommers.com/destinations/san-ignacio/restaurants/"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "high"
+  },
+  {
+   "slug": "running-w",
+   "name": "Running W at San Ignacio Resort Hotel",
+   "status": "open",
+   "area": "san-ignacio",
+   "area_label": "San Ignacio & Cayo",
+   "locality": "San Ignacio",
+   "country": "BZ",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "Belizean",
+    "Steakhouse",
+    "International"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "fine",
+     "belizean"
+    ],
+    "moods": [
+     "romantic",
+     "view"
+    ]
+   },
+   "meals": [
+    "breakfast",
+    "lunch",
+    "dinner"
+   ],
+   "labels": [
+    "Resort restaurant",
+    "Jungle setting"
+   ],
+   "summary_text": "The restaurant of the San Ignacio Resort Hotel, praised in a local guide for refined cooking in a jungle setting, open from breakfast to dinner.",
+   "sponsored": false,
+   "sources": [
+    [
+     "San Ignacio Belize guide",
+     "https://www.sanignaciobelize.com/best-restaurant-in-san-ignacio-belize/"
+    ],
+    [
+     "Tripadvisor: restaurants in San Ignacio",
+     "https://www.tripadvisor.com/Restaurants-g291971-San_Ignacio_Cayo.html"
+    ],
+    [
+     "Wikipedia: San Ignacio Resort Hotel",
+     "https://en.wikipedia.org/wiki/San_Ignacio_Resort_Hotel"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "high"
+  },
+  {
+   "slug": "pops",
+   "name": "Pop's Restaurant",
+   "status": "open",
+   "area": "san-ignacio",
+   "area_label": "San Ignacio & Cayo",
+   "locality": "San Ignacio",
+   "country": "BZ",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "Breakfast",
+    "Belizean",
+    "American"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "breakfast",
+     "belizean",
+     "local-eats"
+    ],
+    "moods": [
+     "local",
+     "casual"
+    ]
+   },
+   "meals": [
+    "breakfast"
+   ],
+   "labels": [
+    "Breakfast institution"
+   ],
+   "summary_text": "Frommer’s calls it the area’s most popular breakfast spot: hearty plates with fry jacks, beans and eggs, and cheap.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Frommer’s: San Ignacio restaurants",
+     "https://www.frommers.com/destinations/san-ignacio/restaurants/"
+    ],
+    [
+     "Backpackers Wanderlust: San Ignacio restaurants",
+     "https://www.backpackerswanderlust.com/best-restaurants-in-san-ignacio/"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "high"
+  },
+  {
+   "slug": "cenaidas",
+   "name": "Cenaida's Belizean Food",
+   "status": "open",
+   "area": "san-ignacio",
+   "area_label": "San Ignacio & Cayo",
+   "locality": "San Ignacio",
+   "country": "BZ",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "Belizean"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "belizean",
+     "local-eats"
+    ],
+    "moods": [
+     "local",
+     "casual"
+    ]
+   },
+   "meals": [],
+   "labels": [
+    "Home-style Belizean"
+   ],
+   "summary_text": "Home-style Belizean plates in town, a frequent pick for stew chicken, rice and beans at local prices.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Tripadvisor: restaurants in San Ignacio",
+     "https://www.tripadvisor.com/Restaurants-g291971-San_Ignacio_Cayo.html"
+    ],
+    [
+     "Backpackers Wanderlust: San Ignacio restaurants",
+     "https://www.backpackerswanderlust.com/best-restaurants-in-san-ignacio/"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "medium"
+  },
+  {
+   "slug": "nahil-mayab",
+   "name": "Nahil Mayab Restaurant & Patio",
+   "status": "open",
+   "area": "orange-walk",
+   "area_label": "Orange Walk Town",
+   "locality": "Orange Walk Town",
+   "country": "BZ",
+   "address": "Corner of Santa Ana and Guadalupe streets, Orange Walk Town",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": "https://www.nahilmayab.com/",
+   "cuisines": [
+    "Latin American",
+    "Caribbean",
+    "Belizean"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "belizean",
+     "international"
+    ],
+    "moods": [
+     "family"
+    ]
+   },
+   "meals": [
+    "lunch",
+    "dinner"
+   ],
+   "labels": [
+    "Air-conditioned",
+    "Garden patio"
+   ],
+   "summary_text": "A surprisingly upscale restaurant and bar in Orange Walk Town, per Frommer’s, serving Latin American dishes and Caribbean classics, smoothies and drinks, with an air-conditioned room and a patio. Useful on the way to the northern Maya sites.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Nahil Mayab (official site)",
+     "https://www.nahilmayab.com/"
+    ],
+    [
+     "Frommer’s: Orange Walk restaurants",
+     "https://www.frommers.com/destinations/orange-walk-town/restaurants/"
+    ],
+    [
+     "Hotel de la Fuente: Nahil Mayab",
+     "https://www.hoteldelafuente.bz/nahil-mayab/"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "high"
+  }
+ ]
+}

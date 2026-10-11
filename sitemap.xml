@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://bestrestaurantsbelize.com/</loc><lastmod>2026-10-09</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://bestrestaurantsbelize.com/sitemap.html</loc><lastmod>2026-06-26</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
+<url><loc>https://bestrestaurantsbelize.com/</loc><lastmod>2026-10-11</lastmod><priority>1.0</priority></url>
+<url><loc>https://bestrestaurantsbelize.com/restaurants/</loc><lastmod>2026-10-11</lastmod><priority>0.9</priority></url>
+<url><loc>https://bestrestaurantsbelize.com/san-pedro/</loc><lastmod>2026-10-11</lastmod><priority>0.8</priority></url>
+<url><loc>https://bestrestaurantsbelize.com/caye-caulker/</loc><lastmod>2026-10-11</lastmod><priority>0.8</priority></url>
+<url><loc>https://bestrestaurantsbelize.com/placencia/</loc><lastmod>2026-10-11</lastmod><priority>0.8</priority></url>
+<url><loc>https://bestrestaurantsbelize.com/hopkins/</loc><lastmod>2026-10-11</lastmod><priority>0.8</priority></url>
+<url><loc>https://bestrestaurantsbelize.com/san-ignacio/</loc><lastmod>2026-10-11</lastmod><priority>0.8</priority></url>
+<url><loc>https://bestrestaurantsbelize.com/fine-dining/</loc><lastmod>2026-10-11</lastmod><priority>0.8</priority></url>
+<url><loc>https://bestrestaurantsbelize.com/breakfast/</loc><lastmod>2026-10-11</lastmod><priority>0.8</priority></url>
+<url><loc>https://bestrestaurantsbelize.com/seafood-restaurants/</loc><lastmod>2026-10-11</lastmod><priority>0.8</priority></url>
+<url><loc>https://bestrestaurantsbelize.com/restaurant-finder/</loc><lastmod>2026-10-11</lastmod><priority>0.8</priority></url>
+<url><loc>https://bestrestaurantsbelize.com/prices-tipping/</loc><lastmod>2026-10-11</lastmod><priority>0.7</priority></url>
+<url><loc>https://bestrestaurantsbelize.com/about/</loc><lastmod>2026-10-11</lastmod><priority>0.4</priority></url>
+<url><loc>https://bestrestaurantsbelize.com/contact/</loc><lastmod>2026-10-11</lastmod><priority>0.4</priority></url>
+<url><loc>https://bestrestaurantsbelize.com/privacy/</loc><lastmod>2026-10-11</lastmod><priority>0.3</priority></url>
+<url><loc>https://bestrestaurantsbelize.com/terms/</loc><lastmod>2026-10-11</lastmod><priority>0.3</priority></url>
+<url><loc>https://bestrestaurantsbelize.com/editorial-policy/</loc><lastmod>2026-10-11</lastmod><priority>0.4</priority></url>
 </urlset>
